@@ -63,7 +63,7 @@ const ReportIssueModal = ({
                     Open Bug Report Form
                   </Button>
                 </li>
-                <li>Log in or create an account</li>
+                <li>Log in or create an github account</li>
                 <li>
                   Fill in a short summary describing what happened (e.g.,
                   &quot;System crashed while browsing&quot;)
